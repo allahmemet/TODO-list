@@ -37,6 +37,7 @@
     margin: 0 !important;
     display: flex;
     gap: 5px;
+    cursor: pointer;
 }
 .card-footer li:nth-child(even){
     background-color: white;

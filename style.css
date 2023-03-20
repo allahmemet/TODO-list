@@ -35,8 +35,6 @@
     position: relative;
     padding: 15px 30px !important;
     margin: 0 !important;
-    display: flex;
-    gap: 5px;
     cursor: pointer;
 }
 .card-footer li:nth-child(even){
